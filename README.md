@@ -6,6 +6,6 @@ This is a project of my last(maybe) campus life. I hope it will have a happy end
 
 [二，深度学习历程](https://github.com/MrZhangKY/deep-learning)
 
-[三，比赛经历]()
+[三，比赛经历](https://github.com/MrZhangKY/competition)
 
 [四，西安交大研究生上机作业]()
